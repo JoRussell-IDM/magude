@@ -1,0 +1,49 @@
+Intellectual Ventures(R)/EMOD Disease Transmission Kernel 2.20.4871.0
+Built on Mar 26 2020 07:04:42 by SYSTEM from Malaria-Ongoing (aaf6fc9) checked in on 2020-03-26 06:58:12 -0700
+Supports sim_types: GENERIC, VECTOR, MALARIA.
+
+Intellectual Ventures(R)/EMOD Disease Transmission Kernel 2.20.4871.0
+Built on Mar 26 2020 07:04:42 by SYSTEM from Malaria-Ongoing (aaf6fc9) checked in on 2020-03-26 06:58:12 -0700
+Supports sim_types: GENERIC, VECTOR, MALARIA.
+
+Using config file: config.json
+Using input path: ./Assets
+Using output path: output
+Using dll path: 
+Using config file: config.json
+Using input path: ./Assets
+Using output path: output
+Using dll path: 
+Python not initialized because --python-script-path (-P) not set.
+Python not initialized because --python-script-path (-P) not set.
+Initializing environment...
+Log-levels:
+Initializing environment...
+Log-levels:
+	Default -> WARNING
+	Default -> WARNING
+	Eradication -> INFO
+	Eradication -> INFO
+	JsonConfigurable -> WARNING
+	JsonConfigurable -> WARNING
+00:00:00 [0] [I] [Eradication] Loaded Configuration...
+00:00:00 [0] [I] [Eradication] 291 parameters found.
+00:00:00 [1] [I] [Eradication] Loaded Configuration...
+00:00:00 [1] [I] [Eradication] 291 parameters found.
+00:00:00 [1] [W] [DTP] Anti-malarial drug name in Malaria_Drug_Params block (Abstract) is not one of the standard cases.
+00:00:00 [1] [I] [Eradication] Initializing Controller...
+00:00:00 [0] [W] [DTP] Anti-malarial drug name in Malaria_Drug_Params block (Abstract) is not one of the standard cases.
+00:00:00 [0] [I] [Eradication] Initializing Controller...
+00:00:14 [1] [W] [Simulation] Failed to load reporter emodules for SimType: MALARIA_SIM from path: reporter_plugins
+00:00:15 [1] [W] [Simulation] Failed to load intervention emodules for SimType: MALARIA_SIM from path: interventions
+00:00:16 [1] [W] [SimulationVector] !!!! NO VECTORS !!!!!  There are 67 nodes on this core and zero vectors.
+00:00:14 [0] [W] [Simulation] Failed to load reporter emodules for SimType: MALARIA_SIM from path: reporter_plugins
+00:00:15 [0] [W] [Simulation] Failed to load intervention emodules for SimType: MALARIA_SIM from path: interventions
+00:00:16 [0] [W] [SimulationVector] !!!! NO VECTORS !!!!!  There are 68 nodes on this core and zero vectors.
+00:00:16 [1] [W] [SimulationEventContext] No nodes were visited.  No nodes were added to the event coordinator.
+00:00:52 [1] [W] [SusceptibilityMalaria] Probability of mortality (0.125005) exceeds probability of severe disease (0.004719)!
+00:00:58 [0] [W] [SusceptibilityMalaria] Probability of mortality (0.084697) exceeds probability of severe disease (0.002193)!
+00:05:16 [0] [W] [SimulationEventContext] No nodes were visited.  No nodes were added to the event coordinator.
+00:42:01 [1] [I] [Eradication] Controller executed successfully.
+00:42:01 [0] [W] [BaseEventReportIntervalOutput] Report, MalariaSummaryReport, not written yet, but the simulation is over.  Writing now...
+00:42:01 [0] [I] [Eradication] Controller executed successfully.

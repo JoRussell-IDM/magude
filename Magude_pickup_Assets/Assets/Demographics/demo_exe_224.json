@@ -1,0 +1,3062 @@
+{
+    "Nodes": [
+        {
+            "NodeID": 1093,
+            "NodeAttributes": {
+                "Latitude": -24.6330083,
+                "Longitude": 32.76461329,
+                "InitialPopulation": 4,
+                "FacilityName": "1093",
+                "BirthRate": 0.00049316,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.004,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.004,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1108,
+            "NodeAttributes": {
+                "Latitude": -24.64199145,
+                "Longitude": 32.77463308,
+                "InitialPopulation": 9,
+                "FacilityName": "1108",
+                "BirthRate": 0.0011096099999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.009,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.009,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1121,
+            "NodeAttributes": {
+                "Latitude": -24.64199145,
+                "Longitude": 32.78465287,
+                "InitialPopulation": 84,
+                "FacilityName": "1121",
+                "BirthRate": 0.01035636,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.084,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.084,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1122,
+            "NodeAttributes": {
+                "Latitude": -24.6330083,
+                "Longitude": 32.78465287,
+                "InitialPopulation": 69,
+                "FacilityName": "1122",
+                "BirthRate": 0.00850701,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.069,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.069,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1123,
+            "NodeAttributes": {
+                "Latitude": -24.62402515,
+                "Longitude": 32.78465287,
+                "InitialPopulation": 13,
+                "FacilityName": "1123",
+                "BirthRate": 0.0016027699999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.013,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.013,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1129,
+            "NodeAttributes": {
+                "Latitude": -24.65995776,
+                "Longitude": 32.79467266,
+                "InitialPopulation": 10,
+                "FacilityName": "1129",
+                "BirthRate": 0.0012329,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.01,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.01,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1130,
+            "NodeAttributes": {
+                "Latitude": -24.64199145,
+                "Longitude": 32.79467266,
+                "InitialPopulation": 17,
+                "FacilityName": "1130",
+                "BirthRate": 0.00209593,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.017,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.017,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1133,
+            "NodeAttributes": {
+                "Latitude": -24.68690722,
+                "Longitude": 32.80469244,
+                "InitialPopulation": 15,
+                "FacilityName": "1133",
+                "BirthRate": 0.0018493499999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.015,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.015,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1134,
+            "NodeAttributes": {
+                "Latitude": -24.67792407,
+                "Longitude": 32.80469244,
+                "InitialPopulation": 17,
+                "FacilityName": "1134",
+                "BirthRate": 0.00209593,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.017,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.017,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1135,
+            "NodeAttributes": {
+                "Latitude": -24.65995776,
+                "Longitude": 32.80469244,
+                "InitialPopulation": 6,
+                "FacilityName": "1135",
+                "BirthRate": 0.00073974,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.006,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.006,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1136,
+            "NodeAttributes": {
+                "Latitude": -24.65097461,
+                "Longitude": 32.80469244,
+                "InitialPopulation": 47,
+                "FacilityName": "1136",
+                "BirthRate": 0.00579463,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.047,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.047,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1143,
+            "NodeAttributes": {
+                "Latitude": -24.77673875,
+                "Longitude": 32.81471223,
+                "InitialPopulation": 21,
+                "FacilityName": "1143",
+                "BirthRate": 0.00258909,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.021,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.021,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1144,
+            "NodeAttributes": {
+                "Latitude": -24.76775559,
+                "Longitude": 32.81471223,
+                "InitialPopulation": 15,
+                "FacilityName": "1144",
+                "BirthRate": 0.0018493499999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.015,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.015,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1145,
+            "NodeAttributes": {
+                "Latitude": -24.74978929,
+                "Longitude": 32.81471223,
+                "InitialPopulation": 61,
+                "FacilityName": "1145",
+                "BirthRate": 0.00752069,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.061,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.061,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1146,
+            "NodeAttributes": {
+                "Latitude": -24.68690722,
+                "Longitude": 32.81471223,
+                "InitialPopulation": 6,
+                "FacilityName": "1146",
+                "BirthRate": 0.00073974,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.006,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.006,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1147,
+            "NodeAttributes": {
+                "Latitude": -24.67792407,
+                "Longitude": 32.81471223,
+                "InitialPopulation": 1,
+                "FacilityName": "1147",
+                "BirthRate": 0.00012329,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1148,
+            "NodeAttributes": {
+                "Latitude": -24.66894091,
+                "Longitude": 32.81471223,
+                "InitialPopulation": 31,
+                "FacilityName": "1148",
+                "BirthRate": 0.00382199,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.031,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.031,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1149,
+            "NodeAttributes": {
+                "Latitude": -24.65995776,
+                "Longitude": 32.81471223,
+                "InitialPopulation": 13,
+                "FacilityName": "1149",
+                "BirthRate": 0.0016027699999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.013,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.013,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1156,
+            "NodeAttributes": {
+                "Latitude": -24.76775559,
+                "Longitude": 32.82473202,
+                "InitialPopulation": 7,
+                "FacilityName": "1156",
+                "BirthRate": 0.00086303,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.007,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.007,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1157,
+            "NodeAttributes": {
+                "Latitude": -24.74978929,
+                "Longitude": 32.82473202,
+                "InitialPopulation": 35,
+                "FacilityName": "1157",
+                "BirthRate": 0.00431515,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.035,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.035,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1158,
+            "NodeAttributes": {
+                "Latitude": -24.74080613,
+                "Longitude": 32.82473202,
+                "InitialPopulation": 8,
+                "FacilityName": "1158",
+                "BirthRate": 0.00098632,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.008,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.008,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1159,
+            "NodeAttributes": {
+                "Latitude": -24.72283983,
+                "Longitude": 32.82473202,
+                "InitialPopulation": 16,
+                "FacilityName": "1159",
+                "BirthRate": 0.00197264,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.016,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.016,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1160,
+            "NodeAttributes": {
+                "Latitude": -24.71385668,
+                "Longitude": 32.82473202,
+                "InitialPopulation": 28,
+                "FacilityName": "1160",
+                "BirthRate": 0.00345212,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.028,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.028,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1161,
+            "NodeAttributes": {
+                "Latitude": -24.68690722,
+                "Longitude": 32.82473202,
+                "InitialPopulation": 11,
+                "FacilityName": "1161",
+                "BirthRate": 0.00135619,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.011,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.011,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1162,
+            "NodeAttributes": {
+                "Latitude": -24.67792407,
+                "Longitude": 32.82473202,
+                "InitialPopulation": 25,
+                "FacilityName": "1162",
+                "BirthRate": 0.00308225,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.025,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.025,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1170,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 23,
+                "FacilityName": "1170",
+                "BirthRate": 0.0028356699999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.023,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.023,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1171,
+            "NodeAttributes": {
+                "Latitude": -24.8036882,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 13,
+                "FacilityName": "1171",
+                "BirthRate": 0.0016027699999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.013,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.013,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1172,
+            "NodeAttributes": {
+                "Latitude": -24.79470505,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 10,
+                "FacilityName": "1172",
+                "BirthRate": 0.0012329,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.01,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.01,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1173,
+            "NodeAttributes": {
+                "Latitude": -24.7857219,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 14,
+                "FacilityName": "1173",
+                "BirthRate": 0.00172606,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.014,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.014,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1174,
+            "NodeAttributes": {
+                "Latitude": -24.77673875,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 12,
+                "FacilityName": "1174",
+                "BirthRate": 0.00147948,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1175,
+            "NodeAttributes": {
+                "Latitude": -24.76775559,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 25,
+                "FacilityName": "1175",
+                "BirthRate": 0.00308225,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.025,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.025,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1176,
+            "NodeAttributes": {
+                "Latitude": -24.75877244,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 7,
+                "FacilityName": "1176",
+                "BirthRate": 0.00086303,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.007,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.007,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1177,
+            "NodeAttributes": {
+                "Latitude": -24.74978929,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 20,
+                "FacilityName": "1177",
+                "BirthRate": 0.0024658,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.02,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.02,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1178,
+            "NodeAttributes": {
+                "Latitude": -24.74080613,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 16,
+                "FacilityName": "1178",
+                "BirthRate": 0.00197264,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.016,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.016,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1179,
+            "NodeAttributes": {
+                "Latitude": -24.73182298,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 142,
+                "FacilityName": "1179",
+                "BirthRate": 0.017507179999999997,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.142,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.142,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1180,
+            "NodeAttributes": {
+                "Latitude": -24.72283983,
+                "Longitude": 32.8347518,
+                "InitialPopulation": 24,
+                "FacilityName": "1180",
+                "BirthRate": 0.00295896,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.024,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.024,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1189,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 32,
+                "FacilityName": "1189",
+                "BirthRate": 0.00394528,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.032,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.032,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1190,
+            "NodeAttributes": {
+                "Latitude": -24.8036882,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 395,
+                "FacilityName": "1190",
+                "BirthRate": 0.04869955,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.395,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.395,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1191,
+            "NodeAttributes": {
+                "Latitude": -24.79470505,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 197,
+                "FacilityName": "1191",
+                "BirthRate": 0.02428813,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.197,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.197,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1192,
+            "NodeAttributes": {
+                "Latitude": -24.7857219,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 118,
+                "FacilityName": "1192",
+                "BirthRate": 0.014548219999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.118,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.118,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1193,
+            "NodeAttributes": {
+                "Latitude": -24.77673875,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 60,
+                "FacilityName": "1193",
+                "BirthRate": 0.007397399999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.06,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.06,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1194,
+            "NodeAttributes": {
+                "Latitude": -24.76775559,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 30,
+                "FacilityName": "1194",
+                "BirthRate": 0.0036986999999999996,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.03,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.03,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1195,
+            "NodeAttributes": {
+                "Latitude": -24.75877244,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 30,
+                "FacilityName": "1195",
+                "BirthRate": 0.0036986999999999996,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.03,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.03,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1196,
+            "NodeAttributes": {
+                "Latitude": -24.74978929,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 60,
+                "FacilityName": "1196",
+                "BirthRate": 0.007397399999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.06,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.06,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1197,
+            "NodeAttributes": {
+                "Latitude": -24.74080613,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 93,
+                "FacilityName": "1197",
+                "BirthRate": 0.011465969999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.093,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.093,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1198,
+            "NodeAttributes": {
+                "Latitude": -24.73182298,
+                "Longitude": 32.84477159,
+                "InitialPopulation": 10,
+                "FacilityName": "1198",
+                "BirthRate": 0.0012329,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.01,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.01,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1207,
+            "NodeAttributes": {
+                "Latitude": -24.84860397,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 42,
+                "FacilityName": "1207",
+                "BirthRate": 0.00517818,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.042,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.042,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1208,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 66,
+                "FacilityName": "1208",
+                "BirthRate": 0.008137140000000001,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.066,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.066,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1209,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 439,
+                "FacilityName": "1209",
+                "BirthRate": 0.05412431,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.439,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.439,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1210,
+            "NodeAttributes": {
+                "Latitude": -24.8036882,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 758,
+                "FacilityName": "1210",
+                "BirthRate": 0.09345381999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.758,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.758,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1211,
+            "NodeAttributes": {
+                "Latitude": -24.79470505,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 766,
+                "FacilityName": "1211",
+                "BirthRate": 0.09444014,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.766,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.766,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1212,
+            "NodeAttributes": {
+                "Latitude": -24.7857219,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 283,
+                "FacilityName": "1212",
+                "BirthRate": 0.034891069999999996,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.283,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.283,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1213,
+            "NodeAttributes": {
+                "Latitude": -24.77673875,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 38,
+                "FacilityName": "1213",
+                "BirthRate": 0.00468502,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.038,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.038,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1214,
+            "NodeAttributes": {
+                "Latitude": -24.76775559,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 14,
+                "FacilityName": "1214",
+                "BirthRate": 0.00172606,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.014,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.014,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1215,
+            "NodeAttributes": {
+                "Latitude": -24.75877244,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 3,
+                "FacilityName": "1215",
+                "BirthRate": 0.00036987,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.003,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.003,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1216,
+            "NodeAttributes": {
+                "Latitude": -24.74978929,
+                "Longitude": 32.85479138,
+                "InitialPopulation": 4,
+                "FacilityName": "1216",
+                "BirthRate": 0.00049316,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.004,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.004,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1222,
+            "NodeAttributes": {
+                "Latitude": -24.85758712,
+                "Longitude": 32.86481117,
+                "InitialPopulation": 64,
+                "FacilityName": "1222",
+                "BirthRate": 0.00789056,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.064,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.064,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1223,
+            "NodeAttributes": {
+                "Latitude": -24.84860397,
+                "Longitude": 32.86481117,
+                "InitialPopulation": 64,
+                "FacilityName": "1223",
+                "BirthRate": 0.00789056,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.064,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.064,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1224,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.86481117,
+                "InitialPopulation": 73,
+                "FacilityName": "1224",
+                "BirthRate": 0.00900017,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.073,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.073,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1225,
+            "NodeAttributes": {
+                "Latitude": -24.82165451,
+                "Longitude": 32.86481117,
+                "InitialPopulation": 5,
+                "FacilityName": "1225",
+                "BirthRate": 0.00061645,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.005,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.005,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1226,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.86481117,
+                "InitialPopulation": 531,
+                "FacilityName": "1226",
+                "BirthRate": 0.06546699,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.531,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.531,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1227,
+            "NodeAttributes": {
+                "Latitude": -24.8036882,
+                "Longitude": 32.86481117,
+                "InitialPopulation": 329,
+                "FacilityName": "1227",
+                "BirthRate": 0.04056241,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.329,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.329,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1230,
+            "NodeAttributes": {
+                "Latitude": -24.85758712,
+                "Longitude": 32.87483095,
+                "InitialPopulation": 27,
+                "FacilityName": "1230",
+                "BirthRate": 0.00332883,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.027,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.027,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1231,
+            "NodeAttributes": {
+                "Latitude": -24.96538496,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 6,
+                "FacilityName": "1231",
+                "BirthRate": 0.00073974,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.006,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.006,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1232,
+            "NodeAttributes": {
+                "Latitude": -24.9384355,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 23,
+                "FacilityName": "1232",
+                "BirthRate": 0.0028356699999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.023,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.023,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1233,
+            "NodeAttributes": {
+                "Latitude": -24.92945234,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 1,
+                "FacilityName": "1233",
+                "BirthRate": 0.00012329,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1234,
+            "NodeAttributes": {
+                "Latitude": -24.87555343,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 12,
+                "FacilityName": "1234",
+                "BirthRate": 0.00147948,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1235,
+            "NodeAttributes": {
+                "Latitude": -24.86657027,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 5,
+                "FacilityName": "1235",
+                "BirthRate": 0.00061645,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.005,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.005,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1236,
+            "NodeAttributes": {
+                "Latitude": -24.85758712,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 1,
+                "FacilityName": "1236",
+                "BirthRate": 0.00012329,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1237,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 57,
+                "FacilityName": "1237",
+                "BirthRate": 0.00702753,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.057,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.057,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1238,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 42,
+                "FacilityName": "1238",
+                "BirthRate": 0.00517818,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.042,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.042,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1239,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.88485074,
+                "InitialPopulation": 83,
+                "FacilityName": "1239",
+                "BirthRate": 0.01023307,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.083,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.083,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1240,
+            "NodeAttributes": {
+                "Latitude": -24.96538496,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 9,
+                "FacilityName": "1240",
+                "BirthRate": 0.0011096099999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.009,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.009,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1241,
+            "NodeAttributes": {
+                "Latitude": -24.9564018,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 8,
+                "FacilityName": "1241",
+                "BirthRate": 0.00098632,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.008,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.008,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1242,
+            "NodeAttributes": {
+                "Latitude": -24.94741865,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 28,
+                "FacilityName": "1242",
+                "BirthRate": 0.00345212,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.028,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.028,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1243,
+            "NodeAttributes": {
+                "Latitude": -24.9384355,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 80,
+                "FacilityName": "1243",
+                "BirthRate": 0.0098632,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.08,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.08,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1244,
+            "NodeAttributes": {
+                "Latitude": -24.92945234,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 118,
+                "FacilityName": "1244",
+                "BirthRate": 0.014548219999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.118,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.118,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1245,
+            "NodeAttributes": {
+                "Latitude": -24.92046919,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 14,
+                "FacilityName": "1245",
+                "BirthRate": 0.00172606,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.014,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.014,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1246,
+            "NodeAttributes": {
+                "Latitude": -24.91148604,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 7,
+                "FacilityName": "1246",
+                "BirthRate": 0.00086303,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.007,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.007,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1247,
+            "NodeAttributes": {
+                "Latitude": -24.90250289,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 12,
+                "FacilityName": "1247",
+                "BirthRate": 0.00147948,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1248,
+            "NodeAttributes": {
+                "Latitude": -24.89351973,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 26,
+                "FacilityName": "1248",
+                "BirthRate": 0.0032055399999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.026,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.026,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1249,
+            "NodeAttributes": {
+                "Latitude": -24.88453658,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 72,
+                "FacilityName": "1249",
+                "BirthRate": 0.008876879999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.072,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.072,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1250,
+            "NodeAttributes": {
+                "Latitude": -24.84860397,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 30,
+                "FacilityName": "1250",
+                "BirthRate": 0.0036986999999999996,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.03,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.03,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1251,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 71,
+                "FacilityName": "1251",
+                "BirthRate": 0.008753589999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.071,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.071,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1252,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 70,
+                "FacilityName": "1252",
+                "BirthRate": 0.0086303,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.07,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.07,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1253,
+            "NodeAttributes": {
+                "Latitude": -24.82165451,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 450,
+                "FacilityName": "1253",
+                "BirthRate": 0.0554805,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.45,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.45,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1254,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.89487053,
+                "InitialPopulation": 160,
+                "FacilityName": "1254",
+                "BirthRate": 0.0197264,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.16,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.16,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1255,
+            "NodeAttributes": {
+                "Latitude": -24.92945234,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 50,
+                "FacilityName": "1255",
+                "BirthRate": 0.0061645,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.05,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.05,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1256,
+            "NodeAttributes": {
+                "Latitude": -24.92046919,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 17,
+                "FacilityName": "1256",
+                "BirthRate": 0.00209593,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.017,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.017,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1257,
+            "NodeAttributes": {
+                "Latitude": -24.91148604,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 105,
+                "FacilityName": "1257",
+                "BirthRate": 0.012945449999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.105,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.105,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1258,
+            "NodeAttributes": {
+                "Latitude": -24.90250289,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 70,
+                "FacilityName": "1258",
+                "BirthRate": 0.0086303,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.07,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.07,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1259,
+            "NodeAttributes": {
+                "Latitude": -24.89351973,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 62,
+                "FacilityName": "1259",
+                "BirthRate": 0.00764398,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.062,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.062,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1260,
+            "NodeAttributes": {
+                "Latitude": -24.88453658,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 8,
+                "FacilityName": "1260",
+                "BirthRate": 0.00098632,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.008,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.008,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1261,
+            "NodeAttributes": {
+                "Latitude": -24.84860397,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 105,
+                "FacilityName": "1261",
+                "BirthRate": 0.012945449999999999,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.105,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.105,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1262,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 78,
+                "FacilityName": "1262",
+                "BirthRate": 0.00961662,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.078,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.078,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1263,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 41,
+                "FacilityName": "1263",
+                "BirthRate": 0.00505489,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.041,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.041,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1264,
+            "NodeAttributes": {
+                "Latitude": -24.82165451,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 42,
+                "FacilityName": "1264",
+                "BirthRate": 0.00517818,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.042,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.042,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1265,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.90489032,
+                "InitialPopulation": 11,
+                "FacilityName": "1265",
+                "BirthRate": 0.00135619,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.011,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.011,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1266,
+            "NodeAttributes": {
+                "Latitude": -24.92046919,
+                "Longitude": 32.9149101,
+                "InitialPopulation": 48,
+                "FacilityName": "1266",
+                "BirthRate": 0.00591792,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.048,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.048,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1267,
+            "NodeAttributes": {
+                "Latitude": -24.91148604,
+                "Longitude": 32.9149101,
+                "InitialPopulation": 28,
+                "FacilityName": "1267",
+                "BirthRate": 0.00345212,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.028,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.028,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1268,
+            "NodeAttributes": {
+                "Latitude": -24.90250289,
+                "Longitude": 32.9149101,
+                "InitialPopulation": 35,
+                "FacilityName": "1268",
+                "BirthRate": 0.00431515,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.035,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.035,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1269,
+            "NodeAttributes": {
+                "Latitude": -24.85758712,
+                "Longitude": 32.9149101,
+                "InitialPopulation": 121,
+                "FacilityName": "1269",
+                "BirthRate": 0.014918089999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.121,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.121,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1270,
+            "NodeAttributes": {
+                "Latitude": -24.84860397,
+                "Longitude": 32.9149101,
+                "InitialPopulation": 211,
+                "FacilityName": "1270",
+                "BirthRate": 0.02601419,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.211,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.211,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1271,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.9149101,
+                "InitialPopulation": 133,
+                "FacilityName": "1271",
+                "BirthRate": 0.01639757,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.133,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.133,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1272,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.9149101,
+                "InitialPopulation": 18,
+                "FacilityName": "1272",
+                "BirthRate": 0.0022192199999999996,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.018,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.018,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1273,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.9149101,
+                "InitialPopulation": 12,
+                "FacilityName": "1273",
+                "BirthRate": 0.00147948,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1274,
+            "NodeAttributes": {
+                "Latitude": -24.91148604,
+                "Longitude": 32.92492989,
+                "InitialPopulation": 22,
+                "FacilityName": "1274",
+                "BirthRate": 0.00271238,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.022,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.022,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1275,
+            "NodeAttributes": {
+                "Latitude": -24.90250289,
+                "Longitude": 32.92492989,
+                "InitialPopulation": 8,
+                "FacilityName": "1275",
+                "BirthRate": 0.00098632,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.008,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.008,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1276,
+            "NodeAttributes": {
+                "Latitude": -24.85758712,
+                "Longitude": 32.92492989,
+                "InitialPopulation": 86,
+                "FacilityName": "1276",
+                "BirthRate": 0.010602939999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.086,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.086,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1277,
+            "NodeAttributes": {
+                "Latitude": -24.84860397,
+                "Longitude": 32.92492989,
+                "InitialPopulation": 154,
+                "FacilityName": "1277",
+                "BirthRate": 0.01898666,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.154,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.154,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1278,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.92492989,
+                "InitialPopulation": 72,
+                "FacilityName": "1278",
+                "BirthRate": 0.008876879999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.072,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.072,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1279,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.92492989,
+                "InitialPopulation": 29,
+                "FacilityName": "1279",
+                "BirthRate": 0.0035754100000000002,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.029,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.029,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1280,
+            "NodeAttributes": {
+                "Latitude": -24.85758712,
+                "Longitude": 32.93494968,
+                "InitialPopulation": 25,
+                "FacilityName": "1280",
+                "BirthRate": 0.00308225,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.025,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.025,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1281,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.93494968,
+                "InitialPopulation": 31,
+                "FacilityName": "1281",
+                "BirthRate": 0.00382199,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.031,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.031,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1282,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.93494968,
+                "InitialPopulation": 26,
+                "FacilityName": "1282",
+                "BirthRate": 0.0032055399999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.026,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.026,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1283,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.93494968,
+                "InitialPopulation": 1,
+                "FacilityName": "1283",
+                "BirthRate": 0.00012329,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1284,
+            "NodeAttributes": {
+                "Latitude": -24.8036882,
+                "Longitude": 32.93494968,
+                "InitialPopulation": 7,
+                "FacilityName": "1284",
+                "BirthRate": 0.00086303,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.007,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.007,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1285,
+            "NodeAttributes": {
+                "Latitude": -24.79470505,
+                "Longitude": 32.93494968,
+                "InitialPopulation": 12,
+                "FacilityName": "1285",
+                "BirthRate": 0.00147948,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.012,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1286,
+            "NodeAttributes": {
+                "Latitude": -24.7857219,
+                "Longitude": 32.93494968,
+                "InitialPopulation": 2,
+                "FacilityName": "1286",
+                "BirthRate": 0.00024658,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.002,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.002,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1287,
+            "NodeAttributes": {
+                "Latitude": -24.83962082,
+                "Longitude": 32.94496946,
+                "InitialPopulation": 5,
+                "FacilityName": "1287",
+                "BirthRate": 0.00061645,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.005,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.005,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1288,
+            "NodeAttributes": {
+                "Latitude": -24.82165451,
+                "Longitude": 32.94496946,
+                "InitialPopulation": 54,
+                "FacilityName": "1288",
+                "BirthRate": 0.00665766,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.054,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.054,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1289,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.94496946,
+                "InitialPopulation": 11,
+                "FacilityName": "1289",
+                "BirthRate": 0.00135619,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.011,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.011,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1290,
+            "NodeAttributes": {
+                "Latitude": -24.8036882,
+                "Longitude": 32.94496946,
+                "InitialPopulation": 55,
+                "FacilityName": "1290",
+                "BirthRate": 0.00678095,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.055,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.055,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1291,
+            "NodeAttributes": {
+                "Latitude": -24.79470505,
+                "Longitude": 32.94496946,
+                "InitialPopulation": 2,
+                "FacilityName": "1291",
+                "BirthRate": 0.00024658,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.002,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.002,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1292,
+            "NodeAttributes": {
+                "Latitude": -24.77673875,
+                "Longitude": 32.94496946,
+                "InitialPopulation": 2,
+                "FacilityName": "1292",
+                "BirthRate": 0.00024658,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.002,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.002,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1293,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.95498925,
+                "InitialPopulation": 15,
+                "FacilityName": "1293",
+                "BirthRate": 0.0018493499999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.015,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.015,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1294,
+            "NodeAttributes": {
+                "Latitude": -24.82165451,
+                "Longitude": 32.95498925,
+                "InitialPopulation": 32,
+                "FacilityName": "1294",
+                "BirthRate": 0.00394528,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.032,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.032,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1295,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.95498925,
+                "InitialPopulation": 68,
+                "FacilityName": "1295",
+                "BirthRate": 0.00838372,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.068,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.068,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1296,
+            "NodeAttributes": {
+                "Latitude": -24.8036882,
+                "Longitude": 32.95498925,
+                "InitialPopulation": 19,
+                "FacilityName": "1296",
+                "BirthRate": 0.00234251,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.019,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.019,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1297,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.96500904,
+                "InitialPopulation": 48,
+                "FacilityName": "1297",
+                "BirthRate": 0.00591792,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.048,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.048,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1298,
+            "NodeAttributes": {
+                "Latitude": -24.82165451,
+                "Longitude": 32.96500904,
+                "InitialPopulation": 56,
+                "FacilityName": "1298",
+                "BirthRate": 0.00690424,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.056,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.056,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1299,
+            "NodeAttributes": {
+                "Latitude": -24.81267136,
+                "Longitude": 32.96500904,
+                "InitialPopulation": 15,
+                "FacilityName": "1299",
+                "BirthRate": 0.0018493499999999998,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.015,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.015,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1300,
+            "NodeAttributes": {
+                "Latitude": -24.83063766,
+                "Longitude": 32.97502883,
+                "InitialPopulation": 1,
+                "FacilityName": "1300",
+                "BirthRate": 0.00012329,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.001,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 1301,
+            "NodeAttributes": {
+                "Latitude": -24.82165451,
+                "Longitude": 32.98504861,
+                "InitialPopulation": 24,
+                "FacilityName": "1301",
+                "BirthRate": 0.00295896,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.024,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.024,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        },
+        {
+            "NodeID": 100000,
+            "NodeAttributes": {
+                "Latitude": -25.045777,
+                "Longitude": 32.786861,
+                "InitialPopulation": 0,
+                "FacilityName": 100000,
+                "BirthRate": 0.0,
+                "LarvalHabitatMultiplier": [
+                    {
+                        "Factor": 0.0,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "arabiensis"
+                    },
+                    {
+                        "Factor": 0.0,
+                        "Habitat": "LINEAR_SPLINE",
+                        "Species": "funestus"
+                    }
+                ]
+            }
+        }
+    ],
+    "Defaults": {
+        "IndividualAttributes": {
+            "MortalityDistribution": {
+                "NumDistributionAxes": 2,
+                "AxisNames": [
+                    "gender",
+                    "age"
+                ],
+                "AxisUnits": [
+                    "male=0,female=1",
+                    "years"
+                ],
+                "AxisScaleFactors": [
+                    1,
+                    365
+                ],
+                "NumPopulationGroups": [
+                    2,
+                    1
+                ],
+                "PopulationGroups": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "ResultUnits": "annual deaths per 1000 individuals",
+                "ResultScaleFactor": 2.74e-06,
+                "ResultValues": [
+                    [
+                        45
+                    ],
+                    [
+                        45
+                    ]
+                ]
+            },
+            "AgeDistributionFlag": 3,
+            "AgeDistribution1": 0.0001068,
+            "RiskDistribution1": 1,
+            "PrevalenceDistributionFlag": 1,
+            "AgeDistribution2": 0,
+            "PrevalenceDistribution1": 0.13,
+            "PrevalenceDistribution2": 0.15,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution2": 0,
+            "MigrationHeterogeneityDistribution1": 1,
+            "ImmunityDistributionFlag": 0,
+            "MigrationHeterogeneityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "MigrationHeterogeneityDistribution2": 0,
+            "ImmunityDistribution2": 0
+        },
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 0.5,
+            "Region": 1,
+            "Seaport": 0,
+            "Airport": 0,
+            "Altitude": 0,
+            "InitialPopulation": 1000
+        },
+        "IndividualProperties": [
+            {
+                "Property": "TravelerStatus",
+                "Values": [
+                    "IsTraveler",
+                    "NotTraveler"
+                ],
+                "Initial_Distribution": [
+                    0.07,
+                    0.93
+                ],
+                "Transitions": []
+            }
+        ]
+    },
+    "Metadata": {
+        "Author": "idm",
+        "Tool": "dtk-tools",
+        "IdReference": "Gridded world grump30arcsec",
+        "DateCreated": "2018-04-24 21:58:38.476052",
+        "NodeCount": 135,
+        "Resolution": 30
+    }
+}
